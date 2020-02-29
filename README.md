@@ -13,3 +13,7 @@
 2. **Task 2**: Color in html
 3. **Task 3**: Dictionaries
 4. **Task 4**: Linking files to navbar. 
+
+## Day3
+
+1. **Task 1**: Create a portfolio site for solution anywhere company.
